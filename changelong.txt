@@ -1,0 +1,55 @@
+CHANGELOG:
+6/30/23 - read GAME LOOP poems at MLC - positive response
+8/04/23 - read GAME LOOP poems at MLC - positive response
+10/2/23 - compiled some poems into short chapbook, release these somewhere?
+11/20/23 - battlers program implemented. get QR codes working!!!
+12/20/23 - ordered vanity print from LuLu, QR codes integrated - hopefully they work
+02/12/24 - ordered vanity playing card deck from Game Creator, QR codes integrated - more work required for good scanning
+04/12/24 - didn’t do cocaine in the office!!!
+05/13/24 - playing cards second order - QR codes finalized - good scanning
+05/20/24 - refined scanner javascript app, played with filters to improve scanning
+06/20/24 - playing cards dropped; use regular book
+06/28/24 - battlers updated- added Alpha Centauri special turn based battler!!
+07/10/24 - started “KILL.SYS” app, faux-windows functionality added + battlers program
+07/20/24 - experimented with AR.JS to make poem-projected-on-page program
+07/25/24 - Randy Stair Hell app added to KILL.SYS
+08/04/24 - argued with William about necessity of app, hmmm
+08/08/24 - submitted GAME LOOP manuscript to Pig Roast
+08/19/24 - created Game of Life poetry cut up program 
+09/11/24 - fixed Mohammed Atta battler!!!
+09/12/24 - continued battlers work, now there are 15 battlers ready
+09/30/24 - refactored Game of Life poetry program for accessibility with William’s suggestions
+10/02/24 - options screen program - wouldn’t it be cool to have the poems modifiable via a fake game display options screen???
+10/05/24 - experiment with shadows app / pill box tchotckes - make collection feel more “game like” or “toy like”?
+10/24/24 - more battlers work, added 3D Unreal Tournament character fuck yeah
+11/09/24 - changed name to SPACE INVADER after talking to Jeff
+11/11/24 - AR App is now called Space Invaders; added Space Invaders clone to it
+12/22/24 - refactored collection with William’s help, name is now KILL RUDY JOHNSON, added choose your own adventure elements + QR images
+12/24/24 - hope Jeff isn’t pissed lmao
+01/02/25 - major refactor of KILL.SYS code to fix window movement on mobile
+01/05/25 -  refactored CYOA formatting for greater accessibility/fidelity to CYOA format (do i care about accessibility/fidelity?)
+01/13/25 - added dynamicProfile to KILL.SYS so that i can be both a black man and a white woman, MICHAEL
+01/30/25 - *grabs dick with one glove on*
+02/03/25 - called Crisis Center because my Vitamin D is lower than Vampire Hunter D’s and i want to kill myself.  no response.
+02/08/25 - worked on killing programming bugs with molain!!!  
+02/11/25 - KILL.SYS refactoring
+02/14/25 - KILL.SYS refactoring
+02/18/25 - KILL.SYS refactoring - options screen now has 3D cube thing lol
+02/27/25 - KILL.SYS refactoring - i hope people actually use the program lmao
+03/04/25 - poetry typo hunting
+03/07/25 - considered promotion, soliciting blurbs is hard
+03/06/25 - didn’t do cocaine in the office???
+03/06/25 - book cover work underway
+03/08/25 - some parts of this changelog are autofiction (?)
+03/10/25 - added a lot of dumb shit to the program, like a hate mail beat-based minigame
+03/20/25 - assembled Attributions page so that i don’t get sued by Jonathan Blow
+04/10/25 - still fucking with KILL.SYS, kill.me.
+04/23/25 - new front cover design finalized with William’s help; less weird, GAMMA CALIBRATION
+05/01/25 - “...”
+05/09/25 - tested devices with molainh. cleanup of interface (cursor buttons, yellow text message etc).
+05/22/25 - performed poem “Unusual Randomizer” from the collection at a malone poetry reading - positive response
+05/24/25 - argued with William about final edits, layout, overall productive?
+05/25/25 - argued with William about final edits, layout
+This collection is Daikatana!  HAHAHAHAHA. WE FUCKING GOT IT
+05/27/25 - worked on formatting changes for final layout.  hope this makes it pop.
+
